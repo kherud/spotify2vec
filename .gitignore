@@ -1,0 +1,7 @@
+*.json
+*.pkl
+*.log
+**/.idea
+**/__pycache__
+*.npy
+*.txt
